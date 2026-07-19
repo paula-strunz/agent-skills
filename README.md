@@ -46,7 +46,6 @@ Skills are symlinked in, so pulling the latest updates them everywhere at once.
 | `build-ai-product-sense` | Build genuine AI product intuition through hands-on work with coding agents, context engineering, and practical building. Use this skill when helping users understand AI products,  |
 | `prime` | Bootstrap a new agent session by loading the current workspace context and reporting available capabilities. Use when the user says prime, /prime, start session, bootstrap this rep |
 | `init-project` | Scaffold a new local project workspace with git, agent skill links, core docs folders, README, and a Node-oriented .gitignore. Use when starting a fresh repo or asking to initializ |
-| `dev-lifecycle` | Guide projects through pre-dev planning, active development, and post-dev documentation. Use when starting a new project, writing tickets, planning features/bugs/chores, implementi |
 | `use-tinyfish` | Use TinyFish web agent to extract/scrape websites, extract data, and automate browser actions using natural language. Use when you need to extract/scrape data from websites, handle |
 | `agent-browser` | Browser automation CLI designed for AI agents. Compact text output minimizes context usage. |
 | `doc-coauthoring` | Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structur |
