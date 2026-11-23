@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="#skills"><img alt="skills" src="https://img.shields.io/badge/skills-3-6C5CE7"></a>
+  <a href="#skills"><img alt="skills" src="https://img.shields.io/badge/skills-1-6C5CE7"></a>
   <img alt="format" src="https://img.shields.io/badge/format-SKILL.md-1E88E5">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-2E7D32">
 </p>
@@ -34,7 +34,7 @@ git clone git@github.com:paula-strunz/agent-skills.git ~/repos/agent-skills
 ~/repos/agent-skills/install.sh /path/to/project
 
 # ...or link only the ones you need:
-~/repos/agent-skills/install.sh /path/to/project --only prime,init-project
+~/repos/agent-skills/install.sh /path/to/project --only agent-trust-contract
 ```
 
 Skills are symlinked in, so pulling the latest updates them everywhere at once.
@@ -44,8 +44,6 @@ Skills are symlinked in, so pulling the latest updates them everywhere at once.
 | Skill | What it does |
 |-------|--------------|
 | `agent-trust-contract` | Before connecting an AI agent to email, calendar, files, money, or accounts, write down what it may do, never do, and needs your yes, then prove each promise with a test. |
-| `build-ai-product-sense` | Build genuine AI product intuition through hands-on work with coding agents, context engineering, and practical building. Use this skill when helping users understand AI products,  |
-| `prime` | Bootstrap a new agent session by loading the current workspace context and reporting available capabilities. Use when the user says prime, /prime, start session, bootstrap this rep |
 
 ## License
 
